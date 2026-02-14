@@ -1,0 +1,15 @@
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.livro {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.livro:last-child {
+  border-bottom: none;
+}
